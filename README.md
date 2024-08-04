@@ -13,7 +13,6 @@ Welcome to the **Ethical Hacking Scanning Tools** repository! This repository is
 
 
 1. **Explore the Tools**
-   - Navigate to the `tools` directory to find various scanning tools and scripts.
    - Check the `tutorials` directory for detailed guides on using each tool.
 
 2. **Follow the Tutorials**
